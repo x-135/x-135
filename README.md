@@ -1,4 +1,3 @@
 - Hi, I’m @x-135
 - I’m interested in GNU/Linux, BSD, C, Pascal, Python.
 - I’m currently learning Pascal.
-- How to reach me: konstantin.peric@protonmail.com
